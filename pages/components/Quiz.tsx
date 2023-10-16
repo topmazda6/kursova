@@ -37,9 +37,9 @@ const Quiz = () => {
                             author={cards[randomNum].author}
                             // height="500px"
                             // width="30%"
-                            margin="0 auto"
+                            // margin="0 auto"
                             offset={2}
-                            showArrows={false}
+                            // showArrows={false}
                         />
                     </div>
                 </div>
