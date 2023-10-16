@@ -33,7 +33,7 @@ const Quiz = () => {
                         <Card
                             title={cards[randomNum].title}
                             description={cards[randomNum].description}
-                            imagen={cards[randomNum].imagen}
+                            imageUrl={cards[randomNum].imageUrl}
                             author={cards[randomNum].author}
                             // height="500px"
                             // width="30%"
