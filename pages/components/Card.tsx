@@ -2,7 +2,7 @@ import Styles from "../../styles/Card.module.css";
 import React, {useState} from "react";
 import {useSpring, animated} from "react-spring";
 
-function Card({imagen, title, description, author}: {imagen: any}) {
+function Card(imagen: any, title: any, description: any, author: any ) {
     const [show, setShown] = useState(false);
     //
     const props3 = useSpring({
