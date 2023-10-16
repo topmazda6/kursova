@@ -38,7 +38,7 @@ const Quiz = () => {
                             // height="500px"
                             // width="30%"
                             // margin="0 auto"
-                            offset={2}
+                            // offset={2}
                             // showArrows={false}
                         />
                     </div>
