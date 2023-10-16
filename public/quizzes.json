@@ -1,0 +1,74 @@
+[
+  {
+    "questionText": "Для чого ви читаєте книжки?",
+    "answerOptions": [
+      { "answerText": "Щоб вийти з депресії", "isCorrect": false },
+      { "answerText": "Щоб пізнати сенс буття", "isCorrect": false },
+      { "answerText": "Щоб бути в тренді", "isCorrect": true },
+      { "answerText": "Щоб набратися знань і розбагатіти", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Коли ви зазвичай любите читати книжки?",
+    "answerOptions": [
+      { "answerText": "Коли сусіди не роблять ремонт і можна сконцентруватись", "isCorrect": false },
+      { "answerText": "Вночі – так цікавіше", "isCorrect": true },
+      { "answerText": "Коли маю час випасти з реальності на декілька днів і прочитати всю книгу", "isCorrect": false },
+      { "answerText": "У перервах між важливими справами", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Що ви робите під час читання?",
+    "answerOptions": [
+      { "answerText": "Виписую сотні цитат і потім намагаюсь їх зрозуміти", "isCorrect": true },
+      { "answerText": "Коментую дії головного героя вголос", "isCorrect": false },
+      { "answerText": "Емоційно реагую на кожен сюжетний поворот", "isCorrect": false },
+      { "answerText": "Роблю висновки", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Як ви читаєте книжку?",
+    "answerOptions": [
+      { "answerText": "Уважно і з олівцем", "isCorrect": false },
+      { "answerText": "Нетерпляче вишукую найяскравіші моменти", "isCorrect": false },
+      { "answerText": "Ковтаю сторінку за сторінкою", "isCorrect": false },
+      { "answerText": "Повільно, розтягуючи задоволення", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "З ким ви обговорюєте прочитане?",
+    "answerOptions": [
+      { "answerText": "Із тими, хто в курсі всіх літературних новинок", "isCorrect": false },
+      { "answerText": "Ні з ким", "isCorrect": false },
+      { "answerText": "Із тим, хто мене мотивує", "isCorrect": false },
+      { "answerText": "Із моїми веселими друзяками", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Ідеальне місце для читання – це",
+    "answerOptions": [
+      { "answerText": "Там, де мене нічого не відволікає", "isCorrect": false },
+      { "answerText": "Моя тиха кімната", "isCorrect": false },
+      { "answerText": "Затишна кав’ярня з шумним мегаполісом за вікном", "isCorrect": false },
+      { "answerText": "Де бачу книжку, там і читаю", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Який ваш найулюбленіший герой?",
+    "answerOptions": [
+      { "answerText": "Сильна незалежна особистість", "isCorrect": false },
+      { "answerText": "Усезнайко, який розуміється на стартапах і біткоїнах", "isCorrect": false },
+      { "answerText": "Неквапливий філософ", "isCorrect": false },
+      { "answerText": "Невгамовний веселун, який знаходить позитив в усьому", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Вдала книжка не може бути написана без:",
+    "answerOptions": [
+      { "answerText": "Гумору, звичайно", "isCorrect": false },
+      { "answerText": "Мудрих думок", "isCorrect": false },
+      { "answerText": "Моторошних сцен і екшену", "isCorrect": false },
+      { "answerText": "Сучасних реалій", "isCorrect": true }
+    ]
+  }
+]
