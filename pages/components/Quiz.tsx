@@ -9,7 +9,7 @@ const Quiz = () => {
     const [score, setScore] = useState(0);
     let [randomNum, setRandomNum] = useState(0)
 
-    const handleAnswerButtonClick = (isCorrect) => {
+    const handleAnswerButtonClick = (isCorrect: any) => {
         if (isCorrect) setScore(score + 1);
         setCurrentQuiz(currentQuiz + 1);
     };
@@ -21,7 +21,7 @@ const Quiz = () => {
 
     }, []);
 
-    const randomNumberInRange = (min, max) => {
+    const randomNumberInRange = (min: any, max: any) => {
         return Math.floor(Math.random() * (max - min + 1)) + min;
     }
 
