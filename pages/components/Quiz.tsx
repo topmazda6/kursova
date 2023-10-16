@@ -35,8 +35,8 @@ const Quiz = () => {
                             description={cards[randomNum].description}
                             imagen={cards[randomNum].imagen}
                             author={cards[randomNum].author}
-                            height="500px"
-                            width="30%"
+                            // height="500px"
+                            // width="30%"
                             margin="0 auto"
                             offset={2}
                             showArrows={false}
